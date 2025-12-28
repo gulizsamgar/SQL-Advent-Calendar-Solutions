@@ -1,10 +1,16 @@
-# SQL Advent Calendar 2025
+# SQL Advent Calendar Challenge 2025
 
-Bu depo, Interview Master'ın 24 günlük **SQL Advent Calendar** yarışmasına ait çözümlerimi içermektedir.
+## 📌 Projeye Genel Bakış
+ 
+**Komut Dosyası:** [`SQL Advent Calendar Solutions`](script/SQL-Advent-Calendar-Solutions.sql)
+
+Bu proje, Interview Master'ın Aralık ayı boyunca yayınlanan **SQL Advent Calendar** challange sorularının tamamına ait çözümlerimi içermektedir.  
+
+**Açıklama:** Tüm sorgular **SQLite** üzerinde yazılmış olup, farklı zorluk seviyelerinde (Easy / Medium / Hard) verilen senaryolar üzerinden analitik SQL becerilerini sergilemektedir.  
+
+---
 
 ## 🎄 Yarışma Hakkında
-
-**Komut Dosyası:** [`SQL Advent Calendar Solutions`](script/SQL-Advent-Calendar-Solutions.sql)
 
 SQL Advent Calendar, Interview Master tarafından düzenlenen ve 24 gün boyunca her gün bir SQL problemi sunan şenlikli bir kodlama etkinliğidir.  
 Katılımcılar her gün yeni bir sorgulama problemiyle karşılaşır ve SQL becerilerini geliştirir.
