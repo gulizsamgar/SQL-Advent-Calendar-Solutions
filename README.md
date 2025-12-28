@@ -4,7 +4,7 @@ Bu depo, Interview Master'ın 24 günlük **SQL Advent Calendar** yarışmasına
 
 ## 🎄 Yarışma Hakkında
 
-**Komut Dosyası:** [`SQL Advent Calendar Solutions`](script /SQL-Advent-Calendar-Solutions.sql)
+**Komut Dosyası:** [`SQL Advent Calendar Solutions`](script/SQL-Advent-Calendar-Solutions.sql)
 
 SQL Advent Calendar, Interview Master tarafından düzenlenen ve 24 gün boyunca her gün bir SQL problemi sunan şenlikli bir kodlama etkinliğidir.  
 Katılımcılar her gün yeni bir sorgulama problemiyle karşılaşır ve SQL becerilerini geliştirir.
